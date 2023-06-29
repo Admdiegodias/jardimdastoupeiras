@@ -11,7 +11,7 @@ Projeto construindo utilizando flex box e animações com o keyframes.
 
 🚀 Tecnologias
 
-HTML
-CSS
-GITHUB
-FIGMA
+HTML;
+CSS;
+GITHUB;
+FIGMA.
