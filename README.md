@@ -18,4 +18,4 @@ Projeto construindo utilizando flex box e animações com o keyframes.
 
 👁 View
 
-[Layote do desafio](https://github.com/Admdiegodias/jardimdastoupeiras/blob/main/toupeiras.png)
+(https://github.com/Admdiegodias/jardimdastoupeiras/blob/main/toupeiras.png)
